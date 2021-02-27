@@ -1,7 +1,7 @@
-# Data_Scientist_with_Python_Projects
-Data Scientist with Python Track (88Hours) Projects
+# Data Scientist with Python Career Track (88 hours - 23 Courses - 6 Projects) of Data Camp.
 
 * On this repo, I shared the projects that I completed on the Data Science Career Track of Data Camp.
+
 
 
 
