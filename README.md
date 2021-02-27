@@ -5,7 +5,7 @@ Data Scientist with Python Track (88Hours) Projects
 
 
 
-## Description of Projects
+## Description of the Projects
 
 #### 1-Analyzing TV Data - Project Description
 
