@@ -1,4 +1,4 @@
-## Description of Project
+## Description of the Project
 
 #### 1-Analyzing TV Data 
 
